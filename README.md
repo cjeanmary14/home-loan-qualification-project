@@ -17,3 +17,5 @@ The company wants to automate the loan eligibility process (real-time) based on 
 -I mainly used python in a Jupyter Notebook file to analyze, clean, and transform the data in order to make the visualization report.
 
 -I then used another Jupyter Notebook to make predictions with the cleaned data set.
+
+[Click Here](https://github.com/cjeanmary14/home-loan-qualification-project-data-preparation/tree/main) for viewing the preparation and existing cleaned data set.
