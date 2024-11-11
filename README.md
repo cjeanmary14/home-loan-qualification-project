@@ -21,3 +21,6 @@ The company wants to automate the loan eligibility process (real-time) based on 
 [Click Here](https://github.com/cjeanmary14/home-loan-qualification-project-data-preparation/tree/main) for viewing the preparation and existing cleaned data set.
 
 ## Home Loan Qualification Analytics
+
+![image](https://github.com/user-attachments/assets/ab3c32cd-8396-4941-bdf6-1c386b78379d)
+
