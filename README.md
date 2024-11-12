@@ -22,5 +22,10 @@ The company wants to automate the loan eligibility process (real-time) based on 
 
 ## Home Loan Qualification Analytics
 
+### Click "Dashboard" to view interavtive dashboard
+
+[Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/HomeLoanData_17203883842580/Dashboard1)
+
 ![image](https://github.com/user-attachments/assets/ab3c32cd-8396-4941-bdf6-1c386b78379d)
+
 
