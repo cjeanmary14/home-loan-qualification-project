@@ -12,6 +12,8 @@ The company wants to automate the loan eligibility process (real-time) based on 
 
 -In the meantime, I made a report of the applicants and co-applicants that qualify for home loan from each gender. It also provides information on average monthly income, marital status, existing credit, etc.
 
+-With this information, this can give lenders a better idea in whom they going to lend loans to.
+
 ## Data Preparing Process:
 
 -I mainly used python in a Jupyter Notebook file to analyze, clean, and transform the data in order to make the visualization report.
@@ -28,7 +30,7 @@ The company wants to automate the loan eligibility process (real-time) based on 
 
 -After creating the model, I then try to avoid any possibilities over over/underfitting by pruning the tree a little bit.
 
-To view the code in the preditions Jupyter Notebook, [Check it Out](https://github.com/cjeanmary14/home-loan-qualification-project-data-preparation/blob/main/Home_Loan_Prediction_Notebook.ipynb) here.
+-To view the code in the preditions Jupyter Notebook, [Check it Out](https://github.com/cjeanmary14/home-loan-qualification-project-data-preparation/blob/main/Home_Loan_Prediction_Notebook.ipynb) here.
 
 ## Home Loan Qualification Analytics
 
