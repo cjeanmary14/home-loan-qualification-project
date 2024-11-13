@@ -16,9 +16,19 @@ The company wants to automate the loan eligibility process (real-time) based on 
 
 -I mainly used python in a Jupyter Notebook file to analyze, clean, and transform the data in order to make the visualization report.
 
--I then used another Jupyter Notebook to make predictions with the cleaned data set.
+-I then used another Jupyter Notebook to make predictions with the cleaned data set. 
 
 [Click Here](https://github.com/cjeanmary14/home-loan-qualification-project-data-preparation/tree/main) for viewing the preparation and existing cleaned data set.
+
+-Here is where I took the data data and did some data cleaning to help best what I would like to convey when conveying data. This involved, alternating data types, filling in null values for "gender" field, changing the values in "credit history" field, and some exploration.
+
+[Click Here](https://github.com/cjeanmary14/home-loan-qualification-project-data-preparation/blob/main/main.ipynb) to view the Jupyter Notebook for cleaning.
+
+-Next, here is where I did the prediction modeling for the newly submitted applications. What I used to make the predictions was using a Decision Tree Classifier for Sci-Kit Learn, and want to predict the loan status for the new applications. I turned all the values in all the other fields into dummy variables, and turn the boolean data types of the values into float data types. This would make it easier for the model to read and learn. And it's great becasue I want the model to consider all fields when making the prediction so that the user can put in their credentials while using the app.
+
+-After creating the model, I then try to avoid any possibilities over over/underfitting by pruning the tree a little bit.
+
+To view the code in the preditions Jupyter Notebook, [Check it Out](https://github.com/cjeanmary14/home-loan-qualification-project-data-preparation/blob/main/Home_Loan_Prediction_Notebook.ipynb) here.
 
 ## Home Loan Qualification Analytics
 
