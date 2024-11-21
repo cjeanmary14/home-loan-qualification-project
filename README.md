@@ -40,6 +40,16 @@ The company wants to automate the loan eligibility process (real-time) based on 
 
 ![image](https://github.com/user-attachments/assets/ab3c32cd-8396-4941-bdf6-1c386b78379d)
 
+-The data shows the average monthly income for both the applicant and the co-applicant alongside with the overall monthly incomes for each loan application (individual), agian for both applicant and co-applicant. And that accounts for all genders and all monthly loan terms.
+
+-On the bottom, is the data for Marriage, Credit History, and Number of Dependants.
+
+-The dashboard can easily be filtered. 
+
+-It shows that the co-applicant is always making much less on average than the applicant applying for the loan. This could also signify that most of the applicants didn't need a co-applicant to be qualified for a loan as income would just populate to $0.00, but some of them do which explains why co-applicant income have varying numbers.
+
+-It seems that most of the people who are qualified are already married, have existing credit, and most of them didn't need any dependents but some did. And it is the same result for eceryone possible alteration no matter how it can be filtered.
+
 ## Home Loan Qualification Analytics (Cont'd)
 
 ### Click "Dashboard" to view interactive dashboard
@@ -47,6 +57,8 @@ The company wants to automate the loan eligibility process (real-time) based on 
 [Dashboard](https://public.tableau.com/app/profile/chadwick.jeanmary/viz/HomeLoanData_17203883842580/Dashboard2)
 
 ![image](https://github.com/user-attachments/assets/385be264-c52d-4345-9a90-322428d86583)
+
+-We want to set a benchmark or a minimum of how much the applicants should be making.
 
 
 
