@@ -58,7 +58,19 @@ The company wants to automate the loan eligibility process (real-time) based on 
 
 ![image](https://github.com/user-attachments/assets/385be264-c52d-4345-9a90-322428d86583)
 
+-This is all data of people who qualified for a home loan.
+
 -We want to set a benchmark or a minimum of how much the applicants should be making.
+
+-This can help come up with a particular range in which it will tell us the minimum monthly income an applicant must have in order to qualify for a loan.
+
+-A good view of minimum monthly income is displayed on the top per gender because the minimum monthly income on the whisker chart may not be visiable at first glance.
+
+-It is also set by each loan amount per month.
+
+-What was found interesting was that females seem to mostly likely have a co-applicant to apply when males do not nessiarily need to. And they seem to qualify by earn more just on a minimal scale.
+
+And of course, the whisker charts show applicants making more money, but we want to focus more on the minimum monthly income earned to set a benchmark for qualification.
 
 
 
